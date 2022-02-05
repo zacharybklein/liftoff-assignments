@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+Upload a .PDF of your presentation here for review.[Secret Note - Project Presentation.pdf](https://github.com/zacharybklein/liftoff-assignments/files/8009013/Secret.Note.-.Project.Presentation.pdf)
